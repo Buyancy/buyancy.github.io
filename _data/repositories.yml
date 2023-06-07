@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Buyancy
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Buyancy/LlpsSim
+  - Buyancy/NARDS
+  - Buyancy/TORAT
+  - Buyancy/r-gen
+  - ruitaiS/vybLab
