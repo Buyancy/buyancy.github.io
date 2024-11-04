@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Publications I am involved in.
-years: [2023]
+years: [2024]
 nav: true
 nav_order: 1
 ---
